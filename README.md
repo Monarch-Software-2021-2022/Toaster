@@ -1,4 +1,4 @@
-# Toaster / Plugin Framework for Sunrise Encryption
+# Toaster has been superseded by EXPLORE
  Plugin Framework for the Sunrise Encryption Tool
  
  ```
